@@ -1,0 +1,10 @@
+{
+	"dbURL": "",
+	"sessionSecret":"",
+	"fb": {
+		"appID": "",
+		"appSecret": "",
+		"callbackURL": ""
+	}
+	
+}
